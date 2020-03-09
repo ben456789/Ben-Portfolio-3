@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 'Discover more, pay less.'
-image: /img/home-jumbotron.jpg
+image: /img/blog-index.jpg
 heading: Great coffee with a conscience
 subheading: 'Choose your activity, combine offers, create your perfect deal. Let''s Wrangle!'
 mainpitch:
